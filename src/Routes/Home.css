@@ -16,6 +16,11 @@ body,
   justify-content: center;
 }
 
+.container {
+  margin-top: 50px;
+}
+
+span,
 .loader {
   color: white;
   font-size: 30px;
